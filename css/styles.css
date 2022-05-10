@@ -24,10 +24,6 @@ body{
     background-color: var(--white-color);
 
 }
-.work-title,
-.section-title{
-    visibility: hidden;
-}
 
 .work-title,
 .about-title,
